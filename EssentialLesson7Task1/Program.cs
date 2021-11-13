@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace EssentialLesson7Task1
+﻿namespace EssentialLesson7Task1
 {
     class Program
     {

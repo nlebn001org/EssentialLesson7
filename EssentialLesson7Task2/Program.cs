@@ -6,7 +6,7 @@ namespace EssentialLesson7Task2
     {
         static void Main(string[] args)
         {
-            Train[] trains = new Train[8];
+            Train[] trains = new Train[1];
             string[] places = { "DENVER", "BOGOTA", "BERLIN" };
             string str;
             string place;

@@ -13,7 +13,6 @@ namespace EssentialLesson7Task2
         int trainNumber;
         TimeSpan time;
 
-
         public string Place { get { return place; } }
         public int TrainNumber { get { return trainNumber; } }
         public TimeSpan Time { get { return time; } }

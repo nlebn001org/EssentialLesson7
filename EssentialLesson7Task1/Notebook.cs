@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EssentialLesson7Task1
 {
@@ -26,7 +22,5 @@ namespace EssentialLesson7Task1
         {
             Console.WriteLine($"Model is: {model}, manufacturer is: {manufacturer}, price is {price}");
         }
-
-
     }
 }

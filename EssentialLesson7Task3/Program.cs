@@ -24,17 +24,14 @@ namespace EssentialLesson7Task3
 
         }
 
-
         static void ClassTaker(MyClass myClass)
         {
             myClass.change = "Changed";
         }
 
-
         static void StruktTaker(MyStruct myStruct)
         {
             myStruct.change = "Changed";
         }
-
     }
 }
